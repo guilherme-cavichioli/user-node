@@ -35,7 +35,7 @@ https://docs.docker.com/compose/install/
 
 Clone using ssh: `git clone git@github.com:guilherme-cavichioli/user-node.git`
 
-Clone using https: `https://github.com/guilherme-cavichioli/user-node.git`
+Clone using https: `git clone https://github.com/guilherme-cavichioli/user-node.git`
 
   
   
